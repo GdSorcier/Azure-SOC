@@ -103,6 +103,6 @@ Stop Time	2023-12-15 15:56:02
 
 ## Conclusion
 
-In this project, we built a mini honeynet on Microsoft Azure, integrating logs into a Log Analytics workspace and using Microsoft Sentinel for alerts and incident creation. We observed a significant reduction in security events after applying security controls, proving their effectiveness. Increased network usage by regular users could potentially lead to more security alerts post-implementation.
+In this project, a mini honeynet was built on Microsoft Azure, integrating logs into a Log Analytics workspace and using Microsoft Sentinel for alerts and incident creation. We observed a significant reduction in security events after applying security controls, proving their effectiveness. Increased network usage by regular users could potentially lead to more security alerts post-implementation.
 
 The project was not only enjoyable but also a crucial lesson in the importance of robust security measures. The contrast in metrics before and after implementing security controls clearly shows the difference between vulnerable and secure environments. Key practices like implementing firewall rules, using private endpoints, and restricting public internet access are essential to safeguard against threats and unauthorised access to critical assets.
